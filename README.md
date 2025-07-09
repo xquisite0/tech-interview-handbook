@@ -26,7 +26,7 @@ Not everyone has the time to do a few hundred LeetCode questions. Here are _free
 Besides the usual algorithm questions, other **awesome** stuff includes:
 
 - [Best practice questions](https://www.techinterviewhandbook.org/coding-interview-study-plan/) for coding interviews
-- [Grind 75](https://www.techinterviewhandbook.org/grind75) - the next evolution of Blind 75, bigger and better
+- [Grind 75](https://www.techinterviewhandbook.org/grind75/) - the next evolution of Blind 75, bigger and better
 - [How to prepare](https://www.techinterviewhandbook.org/coding-interview-prep/) for coding interviews
 - [Coding interview best practices](https://www.techinterviewhandbook.org/coding-interview-cheatsheet/) - Straight-to-the-point Do's and Don'ts
 - [Algorithm cheatsheets and tips](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/) categorized by topic
